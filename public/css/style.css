@@ -1,0 +1,32 @@
+a.is-primary:hover {
+    color: dodgerblue;
+}
+a.is-primary {
+    color: gray;
+}
+div.navbar-bottom-div{
+    flex-grow: 1;
+    justify-content: center;
+}
+
+.navbar-item-logo {
+    background: url("../img/socialstack.png") no-repeat center center;
+    background-size: cover;
+    width: 152px;
+}
+
+#post-card {
+    margin-top:50px;
+}
+
+#notification-section{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.navbar-start--centered {
+    flex-grow: 1;
+    justify-content: center;
+}
+
+
