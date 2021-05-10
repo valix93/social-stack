@@ -32,10 +32,14 @@ Pagina singola con in ordine partendo dall’alto
 
 ## Screenshot
 ### Desktop
-<img alt="Screenshot desktop" src="https://user-images.githubusercontent.com/20725151/117643684-f04a4580-b188-11eb-90cf-f5d811b0538d.png">
+<p align="center">
+<img alt="Screenshot desktop" src="https://user-images.githubusercontent.com/20725151/117643684-f04a4580-b188-11eb-90cf-f5d811b0538d.png" width="600">
+</p>
 
 ### Mobile 
-<img alt="Screenshot mobile" src="https://user-images.githubusercontent.com/20725151/117643669-ed4f5500-b188-11eb-90e4-9a03e1c719b0.png">
+<p align="center">
+<img alt="Screenshot mobile" src="https://user-images.githubusercontent.com/20725151/117643669-ed4f5500-b188-11eb-90e4-9a03e1c719b0.png"  width="200">
+</p>
 
 ## About me
 <p align="center">
