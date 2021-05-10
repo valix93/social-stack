@@ -1,5 +1,5 @@
 
-<p align="center"><a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/20725151/117643751-07893300-b189-11eb-966f-602221d70522.png" alt="Social Stack Logo"></a>
+<p align="center"><a href="#" target="_blank"><img src="https://user-images.githubusercontent.com/20725151/117645918-6fd91400-b18b-11eb-9ee9-33740d82fdb0.jpg" alt="Social Stack Logo"></a>
 </p>
 <p align="center">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103" alt="Open Source Badge"> <img src="https://badge.fury.io/gh/tterb%2FHyde.svg"  alt="">
