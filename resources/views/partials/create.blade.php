@@ -19,7 +19,7 @@
                 <div class="field">
                     <label class="label">Titolo</label>
                     <div class="control">
-                        <input type="text" name="title" value="{{ old('title') }}" class="input" placeholder="Titolo" minlength="5" maxlength="100" required />
+                        <input type="text" name="title" value="{{ old('title') }}" class="input" placeholder="Titolo" pattern="\S+" minlength="1" maxlength="100" required />
                         <input type="hidden" name="user_id" value="1"/>
                     </div>
                 </div>

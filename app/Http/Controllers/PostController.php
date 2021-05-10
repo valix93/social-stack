@@ -37,7 +37,7 @@ class PostController extends Controller
     {
         // Validate posted form data
         $validated = $request->validate([
-            'title' => 'required|string|max:100',
+            'title' => 'required|string|min:1|max:100',
             'content' => 'max:2000',
             'user_id' => 'required'
         ]);
